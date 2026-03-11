@@ -33,8 +33,8 @@ Lower Gini value means better classification.
 
 decision-tree-ml/
 │
-├── decision_tree.py   # Decision Tree implementation
-└── README.md          # Project documentation
+├── decision_tree.py
+└── README.md
 
 ## Language
 
